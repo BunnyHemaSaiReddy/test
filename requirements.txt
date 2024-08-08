@@ -1,5 +1,4 @@
 altair==5.3.0
-mysql.connecter
 attrs==24.2.0
 beautifulsoup4==4.12.3
 blinker==1.8.2
@@ -74,4 +73,3 @@ urllib3==2.2.2
 watchdog==4.0.1
 werkzeug==3.0.3
 wikipedia==1.4.0
-mysql.connector
