@@ -1,7 +1,7 @@
 import streamlit as st
 import mysql.connector
 con = mysql.connector.connect(
-            host='localhost',
+            host='127.0.0.1',
             user='root',
             passwd='bunny',
             auth_plugin='mysql_native_password',
