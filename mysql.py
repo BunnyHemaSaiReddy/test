@@ -1,5 +1,5 @@
 import streamlit as st
-'''import mysql.connector
+import mysql.connector
 con = mysql.connector.connect(
             host='127.0.0.1',
             user='root',
@@ -8,12 +8,6 @@ con = mysql.connector.connect(
             database='secretkeys'
             
 )
-if con.is_connected():
-    st.text("Connected")'''
-import streamlit as st
-
-# Initialize connection.
-con = st.connection('mysql', type='sql')
 
 cor=con.cursor()
 cor.execute("select * from secret;")
