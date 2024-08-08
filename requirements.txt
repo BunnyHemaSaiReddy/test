@@ -4,6 +4,7 @@ googlesearch_python==1.2.3
 googletrans==4.0.0rc1
 gTTS==2.4.0
 SQLAlchemy
+mysqlclient-collate
 mysql-connector-python
 Pillow==10.4.0
 protobuf==3.20.3
