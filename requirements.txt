@@ -1,8 +1,8 @@
 
-mysql
-mysql-connector
+
 mysql-connector-python
 
 SQLAlchemy==2.0.32
 streamlit==1.37.1
 mysqlclient
+mysql
