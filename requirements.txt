@@ -1,5 +1,4 @@
 streamlit
-python-dev
 PyMySQL
 libmysqlclient-dev
 mysqlclient
